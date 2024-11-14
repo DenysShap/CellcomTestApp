@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CellcomTestApp</string>
+    <string name="something_went_wrong">Something went wrong while loading data from a server :(</string>
+    <string name="empty_text">I have no movies for you :(</string>
+    <string name="now_playing">Now playing</string>
+    <string name="popular">Popular</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="favourite">Favourite</string>
+    <string name="favourites">Favourites</string>
+    <string name="play_trailer">Play Trailer</string>
+    <string name="user_score">User Score</string>
+    <string name="overview">Overview</string>
+    <string name="rating">Rating</string>
+    <string name="cast">Cast</string>
+
+    <string name="delete_all_favorites_title">Delete all favourites</string>
+    <string name="delete_all_favorites_body">Do you want to delete all favourites?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>
